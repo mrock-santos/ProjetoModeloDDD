@@ -1,0 +1,11 @@
+C:\Users\marcio.santos\Desktop\PrimeEnergy\Projetos\Projeto_5A\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\marcio.santos\Desktop\PrimeEnergy\Projetos\Projeto_5A\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\marcio.santos\Desktop\PrimeEnergy\Projetos\Projeto_5A\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marcio.santos\Desktop\PrimeEnergy\Projetos\Projeto_5A\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\marcio.santos\Desktop\PrimeEnergy\Projetos\Projeto_5A\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+D:\Marcio\Clientes\PrimeEnergy\PrimeEnergy\Projetos\Projeto_5A\01\ProjetoModeloDDD.Application\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
